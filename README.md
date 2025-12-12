@@ -1,7 +1,7 @@
 
   # MediNest
 
-MediNest frontend is available at : https://medi-nest-ai.vercel.app/
+MediNest frontend is available at : https://www.medinest.life/
 
   ## Running the code
 
